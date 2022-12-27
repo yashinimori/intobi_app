@@ -49,6 +49,10 @@ Running type checks with mypy:
 
     $ mypy intobi_app
 
+Also don't forget to run pre-commit before commit:
+
+    $ pre-commit
+
 
 #### Running tests with pytest
 
